@@ -1,3 +1,9 @@
+### To install the component:
+
+```
+npm i react-native-simplebar --save
+```
+
 ### A React Native SimpleBar Demo
 
 ```
