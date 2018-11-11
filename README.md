@@ -4,4 +4,4 @@
 npm install
 ```
 
-![simplebar text](http://imgur.com/a/GIVNl64)
+![simplebar text](https://i.imgur.com/WAHCetW.png)
