@@ -71,6 +71,27 @@ export default class App extends React.Component {
               <Text>A Simple Customizable Bar demo 3.</Text>
             </View>
           </SimpleBar>
+
+          <SimpleBar
+            title="Simple Bar demo 4"
+            showOpenedStart={false}
+            // iconClose="ios-arrow-down"
+            // iconOpen="ios-arrow-up"
+            // iconSize={22}
+            // iconColor="#ff8026"
+            // titleBackgroundColor="rgba(25, 128, 38, 0.1)"
+            // titleBarBorderColor="#ff8026"
+            // titleBarBorderRadius={0}
+            // textColor="#ff8026"
+            // textTitleAlign="center"
+            // titleFontSize={18}
+            // titleFontWeight="bold"
+          >
+            <View style={{ padding: 5 }}>
+              <Text>A Simple Customizable Bar demo 4.</Text>
+              <Text>A Simple Customizable Bar demo 4.</Text>
+            </View>
+          </SimpleBar>
         </ScrollView>
       </View>
     );
