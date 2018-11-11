@@ -4,6 +4,12 @@
 npm i react-native-simplebar --save
 ```
 
+### Expo example!
+
+```
+https://expo.io/@atiladev/react-native-simplebar-demo
+```
+
 ### A React Native SimpleBar Demo
 
 ```
