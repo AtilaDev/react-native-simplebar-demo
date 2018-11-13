@@ -4,6 +4,8 @@
 npm i react-native-simplebar --save
 ```
 
+Use icons from Ionicons
+
 ### Expo example!
 
 ```
